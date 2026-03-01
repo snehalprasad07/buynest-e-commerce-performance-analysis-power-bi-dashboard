@@ -58,9 +58,9 @@ This BuyNest E-Commerce dashboard provides a comprehensive view of business perf
 # Dashboard 
 <a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Overview%20Page%20Screenshot.png">Overview Page</a>
 
-<a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Sales%20Analysis%20Page%20Screenshot.png">Sales Analysis</a>
+<a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Sales%20Analysis%20Page%20Screenshot.png">Sales Analysis Page</a>
 
-<a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Profit%20%26%20Loss%20Analysis%20Page%20Screenshot.png">Profit & Loss Analysis</a>
+<a href="https://github.com/snehalprasad07/BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard/blob/main/Profit%20%26%20Loss%20Analysis%20Page%20Screenshot.png">Profit & Loss Analysis Page</a>
 
 
 
