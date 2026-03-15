@@ -1,4 +1,4 @@
-# BuyNest-E-Commerce-Performance-Analysis-Power-Bi-Dashboard
+# buynest-e-commerce-performance-analysis-power-bi-dashboard
 # Description
 This BuyNest E-Commerce Performance Analysis Dashboard is an interactive Power BI project designed to analyse and monitor key business metrics such as sales, profit, customer segments, regional performance, and product category profitability. The purpose of this dashboard is to help business stakeholders and decision-makers gain deep insights into overall company performance, identify profit-generating areas, detect losses, and make data-driven strategic decisions for growth and optimization. This dashboard transforms raw transactional data into meaningful visual insights through interactive charts, KPIs, and filters to evaluate business performance across multiple dimensions including region, category, segment, and time.
 # Project Objective
